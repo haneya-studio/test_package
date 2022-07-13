@@ -7,3 +7,5 @@ myapp.egg-info/PKG-INFO
 myapp.egg-info/SOURCES.txt
 myapp.egg-info/dependency_links.txt
 myapp.egg-info/top_level.txt
+myapp/app1/__init__.py
+myapp/app1/main.py
